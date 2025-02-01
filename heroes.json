@@ -1,0 +1,19 @@
+{
+    "heroes": [
+        {
+            "id": "1",
+            "name": "Alucard",
+            "image": "https://raw.githubusercontent.com/your-repo/heroes/alucard.jpg",
+            "role": "Fighter",
+            "skinPath": "/data/data/com.mobile.legends/files/heroes/alucard/"
+        },
+        {
+            "id": "2",
+            "name": "Layla",
+            "image": "https://raw.githubusercontent.com/your-repo/heroes/layla.jpg",
+            "role": "Marksman",
+            "skinPath": "/data/data/com.mobile.legends/files/heroes/layla/"
+        }
+        // Tambahkan hero lainnya
+    ]
+}

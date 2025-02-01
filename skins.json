@@ -1,0 +1,14 @@
+{
+    "skins": [
+        {
+            "id": "1",
+            "heroId": "1",
+            "name": "Obsidian Blade",
+            "image": "https://raw.githubusercontent.com/your-repo/skins/alucard_obsidian.jpg",
+            "downloadUrl": "https://raw.githubusercontent.com/your-repo/skins/downloads/alucard_obsidian.zip",
+            "gamePath": "/data/data/com.mobile.legends/files/heroes/alucard/skins/obsidian/",
+            "previewImage": "https://raw.githubusercontent.com/your-repo/previews/alucard_obsidian_preview.jpg"
+        }
+        // Tambahkan skin lainnya
+    ]
+}
